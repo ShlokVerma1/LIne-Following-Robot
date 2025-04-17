@@ -45,7 +45,3 @@ The robot uses two IR sensors to detect the line:
 ## 📜 License
 
 This project is open-source and available under the MIT License. Feel free to use and modify it.
-
----
-
-Let me know if you’d like a schematic or visual wiring guide added too!
